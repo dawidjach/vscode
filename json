@@ -1,0 +1,55 @@
+{
+    "editor.minimap.enabled": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Palenight Theme",
+    "emmet.variables": {
+        "lang": "de"
+    },
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.donotVerifyTags": true,
+    "css.styleSheets": [
+    
+    ],
+    "editor.fontLigatures": false,
+
+    
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "php.validate.executablePath": "c:/xampp/php/php.exe",
+    "php.executablePath": "",
+    "json.schemas": [
+      
+
+    
+    ],
+
+    "editor.tokenColorCustomizations": {
+      "comments": "#e74db9",
+      "textMateRules": [
+        {"name": "PHP Purple Tags", 
+          "scope":
+          ["punctuation.section.embedded.begin.php", // ctrl + shift + p -> Entwickler-Tools (inspect editor)
+          "punctuation.section.embedded.end.php",
+          "variable.language.this.php",
+          "entity.name.tag"], 
+            "settings": { "foreground": "#46d61a" } 
+        },
+      ]/* ,
+
+      "textMateRules": [
+        {"name": "PHP Purple Tags", 
+          "scope":
+          [ "variable.language.this.php" ], 
+            "settings": { "foreground": "#bd9ae0" } 
+        },
+      ], */
+
+/*         "keyword.operator":
+        { "foreground": "#e74db9" } */
+  
+      },
+
+  "explorer.confirmDragAndDrop": false,
+					
+}
