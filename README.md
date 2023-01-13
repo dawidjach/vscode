@@ -7,3 +7,5 @@
 6. Spracheinstellung für z.B. Laravel: 
 - https://github.com/Laravel-Lang/lang/releases
 - z.B. C:\Users\User\laravel-gk-2\lang
+7. Git user.name email:
+- https://git-scm.com/book/de/v2/Git-einrichten-Git-Konfiguration
