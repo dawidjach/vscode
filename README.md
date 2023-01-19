@@ -10,7 +10,8 @@
 7. Git user.name email:
 - https://git-scm.com/book/de/v2/Git-einrichten-Git-Konfiguration
 8. console log shortcut:
-- strg + shift + p -> preferences open keyboard shortcuts (JSON)
+- strg + shift + p -> preferences open keyboard shortcuts (JSON) :
+- 
 {
   "key": "ctrl+shift+l",
   "command": "editor.action.insertSnippet",
